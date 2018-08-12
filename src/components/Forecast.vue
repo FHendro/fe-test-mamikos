@@ -78,10 +78,10 @@ import axios from 'axios';
 import moment from 'moment';
 
 const APP_ID = '9fe214c1058ab59efce91424411b8d39';
-const API_URL_FORECAST = 'http://api.openweathermap.org/data/2.5/forecast';
-const API_URL_CURRENT = 'http://api.openweathermap.org/data/2.5/weather';
+const API_URL_FORECAST = 'https://api.openweathermap.org/data/2.5/forecast';
+const API_URL_CURRENT = 'https://api.openweathermap.org/data/2.5/weather';
 const CNT = 6;
-const ICON_URL = 'http://openweathermap.org/img/w/';
+const ICON_URL = 'https://openweathermap.org/img/w/';
 
 export default {
 
