@@ -1,6 +1,6 @@
 # vue-weather
 
-##Demo
+## Demo
 ```
 https://vue-open-weather.netlify.com/
 ```
