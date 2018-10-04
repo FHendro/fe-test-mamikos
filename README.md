@@ -1,5 +1,10 @@
 # vue-weather
 
+##Demo
+```
+https://vue-open-weather.netlify.com/
+```
+
 ## Project setup
 ```
 npm install
